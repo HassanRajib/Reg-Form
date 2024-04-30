@@ -123,6 +123,7 @@
             android:text="Don't have an accout  "/>
 
         <TextView
+            android:id="@+id/sGu"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Sign up"
